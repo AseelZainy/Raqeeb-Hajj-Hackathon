@@ -35,12 +35,13 @@ Raqeeb integrates data from diverse sources and processes it through a unified p
 ## 📂 Repository Contents
 - `presentation/` - Official Pitch Deck & Presentation PDF (`__ابتكار بنيان (رقيب)_.pdf`).
 - `documentation/` - Comprehensive Project Memo & Technical Breakdown (`__مذكره رقيب _.pdf`).
-
+- `prototype/` - Interactive Dashboard & UI Prototype Experience (`النموذج الأولي لتجربة واجهة رقيب.jpg` / QR Code).
 ---
 
 ## 👥 Team
 Developed by Team **Bonyan**:
 * **Aseel Zainy**
 * **Hala Al-Jawii**
-* **Asal Kalntan** 
+* **Asal Kalntan**
+* 
 *(Umm Al-Qura University - Custodian of the Two Holy Mosques Institute for Hajj and Umrah Research)*
